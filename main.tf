@@ -82,7 +82,7 @@ resource "aws_instance" "EC2" {
     user_data_replace_on_change = true
 
     tags = {
-        name = "test_git-EC2-vers-git-1"
+        name = "test_git-EC2-vers-git-2"
     }
 }
 
